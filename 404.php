@@ -37,7 +37,7 @@
             <ol class="breadcrumb">
                 <li>Page not found</li>
             </ol>
-            <h1 class="page-title">404</h1>
+            <h1 class="page-title">4045</h1>
         </div>
     </div>
     <!-- Page Header End -->
