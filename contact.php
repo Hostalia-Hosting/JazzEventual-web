@@ -65,7 +65,7 @@
                                     <i class="fa-solid fa-phone"></i> <i class="fab fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Llamada o WhatsApp</h4>
-                                <p class="doing-text">Escríbenos por <a href="https://wa.me/34625171701">WhatsApp</a> o llámanos al <a href="https://wa.me/34625171701">(+34) 625 171 701</a> para solicitar más información.</p>
+                                <p class="doing-text">Escríbenos por <a href="https://wa.me/34625171701?text=%C2%A1Hola!%20He%20visto%20vuestra%20web%20y%20me%20gustaría%20consultar%20disponibilidad%20y%20presupuesto%20para%20un%20evento.%0A*%20Fecha:%0A*%20Ubicación:%0A*%20Tipo%20de%20evento%3A%0A*%20Formación%20preferida%20%28Solista,%20Dúo,%20Trío%20o%20por%20recomendar%29:%0A%0AMuchas%20gracias">WhatsApp</a> o llámanos al <a href="https://wa.me/34625171701?text=%C2%A1Hola!%20He%20visto%20vuestra%20web%20y%20me%20gustaría%20consultar%20disponibilidad%20y%20presupuesto%20para%20un%20evento.%0A*%20Fecha:%0A*%20Ubicación:%0A*%20Tipo%20de%20evento%3A%0A*%20Formación%20preferida%20%28Solista,%20Dúo,%20Trío%20o%20por%20recomendar%29:%0A%0AMuchas%20gracias">(+34) 625 171 701</a> para solicitar más información.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
