@@ -79,7 +79,7 @@
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Instagram</h4>
-                                <p class="doing-text">Encuéntranos y escríbenos también en <a href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA">Instagram</a>.</p>
+                                <p class="doing-text">Encuéntranos y escríbenos también en <a href="https://www.instagram.com/oldmoneymakers/" target="_blank" rel="noopener" title="instagram SAXONARA">Instagram</a>.</p>
                             </div>
                         </div>
                     </div>

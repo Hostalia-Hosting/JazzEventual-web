@@ -111,7 +111,7 @@
                         </div>
                         <div class="col-sm-7">
                             <div class="purchase-button-wrap">
-                                <a class="btn btn-border btn-white" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i> Instagram</a>
+                                <a class="btn btn-border btn-white" href="https://www.instagram.com/oldmoneymakers/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i> Instagram</a>
                                 <a class="btn btn-border btn-white" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i> YouTube</a>
                             </div>
                         </div>
